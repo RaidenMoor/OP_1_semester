@@ -1,0 +1,5 @@
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты\6101\Гусева Мария\ЛР01\Задание 3\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты\6101\Гусева Мария\ЛР01\Задание 3\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты\6101\Гусева Мария\ЛР01\Задание 3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты\6101\Гусева Мария\ЛР01\Задание 3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты\6101\Гусева Мария\ЛР01\Задание 3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
