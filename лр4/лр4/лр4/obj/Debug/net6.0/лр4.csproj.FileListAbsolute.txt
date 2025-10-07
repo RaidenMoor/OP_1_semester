@@ -1,0 +1,15 @@
+D:\лабы 6101\ОП\лр4\лр4\лр4\bin\Debug\net6.0\лр4.exe
+D:\лабы 6101\ОП\лр4\лр4\лр4\bin\Debug\net6.0\лр4.deps.json
+D:\лабы 6101\ОП\лр4\лр4\лр4\bin\Debug\net6.0\лр4.runtimeconfig.json
+D:\лабы 6101\ОП\лр4\лр4\лр4\bin\Debug\net6.0\лр4.dll
+D:\лабы 6101\ОП\лр4\лр4\лр4\bin\Debug\net6.0\лр4.pdb
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.csproj.AssemblyReference.cache
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.AssemblyInfoInputs.cache
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.AssemblyInfo.cs
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.csproj.CoreCompileInputs.cache
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.dll
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\refint\лр4.dll
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.pdb
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\лр4.genruntimeconfig.cache
+D:\лабы 6101\ОП\лр4\лр4\лр4\obj\Debug\net6.0\ref\лр4.dll
