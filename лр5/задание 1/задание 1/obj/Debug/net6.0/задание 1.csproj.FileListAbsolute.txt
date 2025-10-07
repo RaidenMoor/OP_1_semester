@@ -1,0 +1,15 @@
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\bin\Debug\net6.0\задание 1.exe
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\bin\Debug\net6.0\задание 1.deps.json
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\bin\Debug\net6.0\задание 1.runtimeconfig.json
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\bin\Debug\net6.0\задание 1.dll
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\bin\Debug\net6.0\задание 1.pdb
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.csproj.AssemblyReference.cache
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfoInputs.cache
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfo.cs
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.csproj.CoreCompileInputs.cache
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.dll
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\refint\задание 1.dll
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.pdb
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\задание 1.genruntimeconfig.cache
+D:\лабы 6101\ОП\лр5\задание 1\задание 1\obj\Debug\net6.0\ref\задание 1.dll
